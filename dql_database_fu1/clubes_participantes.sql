@@ -1,1 +1,0 @@
-SELECT distinct "Time" from data_camp_brasileiro;
